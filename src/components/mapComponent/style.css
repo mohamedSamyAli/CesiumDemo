@@ -1,0 +1,19 @@
+#cesium_container {
+    width: 100%;
+    height: 100%;
+    display: relative;
+}
+.tools-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 999;
+}
+.tools-container div {
+    background-color: aliceblue;
+    margin: 5px;
+}
+
+.tools-container div:hover {
+    cursor: pointer;
+}
