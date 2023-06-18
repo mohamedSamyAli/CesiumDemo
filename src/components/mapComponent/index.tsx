@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react'
-import { Viewer, } from "cesium";
+import { Viewer} from "cesium";
 
 
 import './style.css'
